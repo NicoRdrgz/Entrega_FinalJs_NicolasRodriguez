@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "foto": "pictures/SMBU.jpg",
+    "nombre": "Super Smash Bros ultimate",
+    "precio": 7500
+},
+{
+    "id": 2,
+    "foto": "pictures/Zelda_BOW.jfif",
+    "nombre": "Legend Of Zelda Breath of the wild",
+    "precio": 8000
+},
+{
+    "id": 3,
+    "foto": "pictures/Mario_oddisey.jpg",
+    "nombre": "Mario Oddisey",
+    "precio": 5000
+}
+]
